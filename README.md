@@ -30,3 +30,4 @@ Upload your PDF by clicking the Upload button below the text box.
 1. Was the report brief (about 2 pages long) for the main body of the report and no longer than 5 with supporting appendix of figures?
 1. Did the report include an executive summary?
 1. Was the report done in Rmd (knitr)?
+
